@@ -1,0 +1,14 @@
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Repository.deps.json
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Repository.dll
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.csprojAssemblyReference.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.AssemblyInfoInputs.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.AssemblyInfo.cs
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Repository.runtimeconfig.json
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Repository.runtimeconfig.dev.json
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Repository.pdb
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Interface.dll
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\bin\Debug\netcoreapp2.1\RepositoryCore.Interface.pdb
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.csproj.CopyComplete
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.dll
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Repository\obj\Debug\netcoreapp2.1\RepositoryCore.Repository.pdb

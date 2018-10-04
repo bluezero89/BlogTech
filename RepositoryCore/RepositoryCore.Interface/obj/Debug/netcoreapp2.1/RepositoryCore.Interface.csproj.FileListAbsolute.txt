@@ -1,0 +1,9 @@
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\bin\Debug\netcoreapp2.1\RepositoryCore.Interface.deps.json
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\bin\Debug\netcoreapp2.1\RepositoryCore.Interface.dll
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\bin\Debug\netcoreapp2.1\RepositoryCore.Interface.pdb
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.csprojAssemblyReference.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.csproj.CoreCompileInputs.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.AssemblyInfoInputs.cache
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.AssemblyInfo.cs
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.dll
+C:\Users\tuanhoh\source\repos\RepositoryCore\RepositoryCore.Interface\obj\Debug\netcoreapp2.1\RepositoryCore.Interface.pdb
